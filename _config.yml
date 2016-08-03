@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.06162149948067963
 name: Briscoe Creative
+navigation:
+  - name: Portfolio
+    url: www.briscoecreative.com
+    type: external
 title: Weddings
 description: Journalist Perspective
