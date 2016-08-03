@@ -16,5 +16,8 @@ navigation:
   - name: Portfolio
     url: www.briscoecreative.com
     type: external
+  - name: Weddings
+    url: www.briscoecreative.com/weddings
+    type: external
 title: Weddings
 description: Journalist Perspective
