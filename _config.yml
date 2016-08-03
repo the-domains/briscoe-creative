@@ -6,9 +6,9 @@ color:
   saturation: 0.4977134463842958
   rhythmicContrast: 0.9008209409657866
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Briscoe Creative
